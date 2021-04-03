@@ -4,7 +4,7 @@ A set of over 1250 free MIT-licensed high-quality SVG icons for you to use in yo
 
 This repo has been imported from another developer. 
 
-Credit - (codecalm)[https://github.com/codecalm]
+Credit - [codecalm(https://github.com/codecalm)]
 
 Icons search: https://tabler-icons.io/
 
