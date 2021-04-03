@@ -2,15 +2,11 @@
 
 A set of over 1250 free MIT-licensed high-quality SVG icons for you to use in your web projects. Each icon is designed on a 24x24 grid and a `2px` stroke.
 
-**If you want to support my project and help me grow it, you can [become a sponsor on GitHub](https://github.com/sponsors/codecalm) or just [donate on PayPal](https://paypal.me/codecalm) :)**
+This repo has been imported from another developer. 
+Credit - @codecalm
 
 Icons search: https://tabler-icons.io/
 
-## Sponsors
-
-<a href="https://github.com/sponsors/codecalm">
-    <img src='https://raw.githubusercontent.com/tabler/static/main/sponsors.png'>
-  </a>
 
 ## Preview
 
@@ -27,7 +23,6 @@ Icons search: https://tabler-icons.io/
 npm install @tabler/icons --save
 ```
 
-or just [download from Github](https://github.com/tabler/tabler-icons/releases).
 
 ## Usage
 
@@ -146,6 +141,9 @@ You can use [`tabler-icons-svelte`](https://github.com/benflap/tabler-icons-svel
 All icons in this repository have been created with the value of the `stroke-width` property, so if you change the value, you can get different icon variants that will fit in well with your design.
 
 ![](https://raw.githubusercontent.com/tabler/tabler-icons/master/.github/icons-stroke.png)
+
+
+**If you want to support codecalm project and help him grow it, you can [become a sponsor on GitHub](https://github.com/sponsors/codecalm) or just [donate on PayPal](https://paypal.me/codecalm) :)**
 
 ## License
 
